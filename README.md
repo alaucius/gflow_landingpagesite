@@ -1,4 +1,6 @@
-# Project g.flow - Landing Page
+# 🏕 Project g.flow - Landing Page
+
+Deployed to https://practical-lalande-8f455d.netlify.app/
 
 ## Prerequisites
 
