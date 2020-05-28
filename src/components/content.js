@@ -7,8 +7,8 @@ import { COLORS } from "../styles/constants"
 const Content = () => (
   <div style={{ padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
-      title="Minimal Features"
-      description="Don't spend time ripping out unneeded plugins and bloat."
+      title="Our Mission"
+      description="To make planning your next adventure simple and easy."
     />
     <content
       style={{
@@ -19,10 +19,12 @@ const Content = () => (
       }}
     >
       <div>
-        <h3>What you need to Start</h3>
+        <h3>Features</h3>
         <p style={{ color: COLORS.gray }}>
-          Includes plugins for analytics, building sitemaps, and optimizing
-          images
+          Event-specific packing lists, so you won't forget anything.
+          Collaborate on shared checklists to keep your group in sync.
+          Remember your adventure with shared photo albums.
+
         </p>
       </div>
       <div>

@@ -26,12 +26,13 @@ const Header = ({ siteTitle }) => (
         opacity: 0.5,
       }}
     />
-    <h1 style={{ textAlign: "center" }}>Landing Page Starter</h1>
+    <h1 style={{ textAlign: "center", textDecoration: "italics"}}>g.flow</h1>
     <p style={{ textAlign: "center", maxWidth: 440 }}>
-      This landing page looks great on all devices and is minimal in design. Add
-      what you want and deploy.
+           Your next adventure, made simple.
     </p>
-    <Button>Get Early Access</Button>
+    <form action="https://www.loom.com/share/d784a559f45b4967897704c374a91a53">
+      <Button>Watch the Video</Button>
+    </form>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>
       <div style={{ clipPath: "inset(2% 5% round 2% 5%)" }}>
         <MockupContent />
